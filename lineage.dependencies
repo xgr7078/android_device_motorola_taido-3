@@ -1,0 +1,18 @@
+[
+  {
+    "remote": "ashwinr64",
+    "repository": "android_kernel_motorola_mt6735",
+    "target_path": "kernel/motorola/mt6735"
+	"revision": "cm-13.0"
+  },
+  {
+    "remote": "ashwinr64",
+    "repository": "android_vendor_motorola_taido",
+    "target_path": "vendor/motorola/taido"
+	"revision": "cm-13.0"
+  },
+  {
+    "repository": "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings"
+  }
+]
